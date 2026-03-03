@@ -36,9 +36,6 @@ The objective of this project is to analyze decades of historical price, volume,
 - Designed a multi-page interactive layout categorizing insights logically: Overview, Returns, Volatility, Moving Averages, and Company Comparison.
 - Merged all visualizations and applied dynamic slicers (Year, Company) to allow for granular filtering and cross-company auditing.
 
-## Dashboard
-![FAANG Dashboard]([Insert Link to your uploaded Overview Screenshot here])
-
 ## Project Insight
 - **Volume Dominance:** Apple overwhelmingly dominates the Total Trading Volume market share (~93.9%) among the FAANG group.
 - **Risk vs. Return:** Netflix and Amazon yield the highest Average Daily Returns (0.20% and 0.19%), but this comes with the highest Average Volatility (Risk). 
