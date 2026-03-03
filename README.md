@@ -3,9 +3,6 @@
 ## Project Objective
 The objective of this project is to analyze decades of historical price, volume, and volatility data for FAANG stocks (Facebook, Amazon, Apple, Netflix, Google). This interactive dashboard allows financial analysts and investors to evaluate long-term market trends, assess risk vs. return, and track technical trading signals.
 
-## Dataset used
-- <a href="[Insert Link to your CSV/Excel file here]">FAANG Historical Stock Dataset</a>
-
 ## Questions (KPIs)
 - What is the long-term stock price trend and total trading volume for each company?
 - Which company yields the highest average daily return?
