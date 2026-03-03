@@ -13,11 +13,22 @@ The objective of this project is to analyze decades of historical price, volume,
 - How often do bullish/bearish market signals (Golden Cross vs. Death Cross) occur?
 - What is the historical win rate (Up Days vs. Down Days)?
 - Which company dominates the volume market share?
-- Dashboard Interaction <a href="[[https://github.com/grshruthi2002/Faang_dashboard_powerbi/blob/main/screenshot1_FAANG%20Stock%20Dashboard%20%E2%80%94%20Overview.png](https://github.com/grshruthi2002/Faang_dashboard_powerbi/blob/main/screenshot2_FAANG%20Stock%20Dashboard%20%E2%80%94%20Returns.png)]
-https://github.com/grshruthi2002/Faang_dashboard_powerbi/blob/main/screenshot3_FAANG%20Stock%20Dashboard%20%E2%80%94%20Volatility.png
-https://github.com/grshruthi2002/Faang_dashboard_powerbi/blob/main/screenshot4_FAANG%20Stock%20Dashboard%20%E2%80%94%20Moving%20Averages.png
-https://github.com/grshruthi2002/Faang_dashboard_powerbi/blob/main/screenshot5_FAANG%20Stock%20Dashboard%20%E2%80%94%20Company%20Comparison.png
-">View Dashboard</a>
+## Dashboard Screenshots
+
+**1. Overview**
+![Overview](https://github.com/grshruthi2002/Faang_dashboard_powerbi/blob/main/screenshot1_FAANG%20Stock%20Dashboard%20%E2%80%94%20Overview.png?raw=true)
+
+**2. Returns**
+![Returns](https://github.com/grshruthi2002/Faang_dashboard_powerbi/blob/main/screenshot2_FAANG%20Stock%20Dashboard%20%E2%80%94%20Returns.png?raw=true)
+
+**3. Volatility**
+![Volatility](https://github.com/grshruthi2002/Faang_dashboard_powerbi/blob/main/screenshot3_FAANG%20Stock%20Dashboard%20%E2%80%94%20Volatility.png?raw=true)
+
+**4. Moving Averages**
+![Moving Averages](https://github.com/grshruthi2002/Faang_dashboard_powerbi/blob/main/screenshot4_FAANG%20Stock%20Dashboard%20%E2%80%94%20Moving%20Averages.png?raw=true)
+
+**5. Company Comparison**
+![Company Comparison](https://github.com/grshruthi2002/Faang_dashboard_powerbi/blob/main/screenshot5_FAANG%20Stock%20Dashboard%20%E2%80%94%20Company%20Comparison.png?raw=true)
 
 ## Process
 - Verified raw market data for missing values, anomalies, and consistent date formatting.
